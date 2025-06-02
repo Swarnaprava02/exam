@@ -6,3 +6,10 @@ git add . //add all files in local to staging
 git commit -m "message" //commit the changes
 git remote add origin  //put the url after that
 git push origin master
+
+//create new branch
+git branch branchName
+
+git checkout branchName
+
+git branch // where we are?
