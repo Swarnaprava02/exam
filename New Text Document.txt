@@ -1,0 +1,8 @@
+hello 
+//create a folder.
+go to terminal
+git init // initialise git
+git add . //add all files in local to staging
+git commit -m "message" //commit the changes
+git remote add origin  //put the url after that
+git push origin master
